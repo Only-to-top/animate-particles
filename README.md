@@ -2,4 +2,4 @@
 
 <h1>Анимация частиц</h1>
 
- https://soldatovnikolay.github.io/animate-particles
+ https://Only-to-top.github.io/animate-particles
